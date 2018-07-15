@@ -10,5 +10,6 @@
     <string name="Id_number">ID Number</string>
     <string name="Passcode">Passcode...</string>
     <string name="Login">LogIn</string>
+    <string name="test">Test</string>
 
 </resources>
