@@ -1,15 +1,12 @@
 <resources>
-    <string name="app_name">thesissecond</string>
-    <string name="todo">todo</string>
-    <string name="OJT_Monitoring_pp">OJT Monitoring App</string>
-    <string name="mission">MISSION</string>
-    <string name="dhvtsu_commits_itself_to_provide_an_environment_conducive_to_continuous_creation_of_knowledge_and_technology_towards_the_transformation_of_students_into_globally_competitive_professionals_through_the_synergy_of_appropriate_teaching_research_service_and_productivity_functions">DHVTSU commits itself to provide an environment conducive to continuous creation of knowledge and technology towards the transformation of students into globally competitive professionals through the synergy of appropriate teaching, research, service and productivity functions.</string>
+    <string name="app_name"> DHVTSU OJT MONITORING APP</string>
+    <string name="Todo">todo</string>
+    <string name="Ojt_Monitoring_pp">OJT Monitoring App</string>
+    <string name="Mission">MISSION</string>
+    <string name="Dhvtsu_commits_itself_to_provide_an_environment_conducive_to_continuous_creation_of_knowledge_and_technology_towards_the_transformation_of_students_into_globally_competitive_professionals_through_the_synergy_of_appropriate_teaching_research_service_and_productivity_functions">DHVTSU commits itself to provide an environment conducive to continuous creation of knowledge and technology towards the transformation of students into globally competitive professionals through the synergy of appropriate teaching, research, service and productivity functions.</string>
     <string name="Vision">VISION</string>
     <string name="A_lead_university_in_producing_quality_individuals_with_competent_capacities_to_generate_knowledge_and_technology_and_enhance_professional_practices_for_sustainable_national_and_global_competitiveness_through_continuous_innovation">A lead university in producing quality individuals with competent capacities to generate knowledge and technology and enhance professional practices for sustainable national and global competitiveness through continuous innovation.</string>
-    <string name="Todo">TODO</string>
-    <string name="Id_number">ID Number</string>
+    <string name="ID_number">ID Number</string>
     <string name="Passcode">Passcode...</string>
-    <string name="Login">LogIn</string>
-    <string name="test">Test</string>
-
+    <string name="login">LogIn</string>
 </resources>
