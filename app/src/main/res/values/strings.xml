@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"> DHVTSU OJT MONITORING APP</string>
+    <string name="app_name">OJT Monitoring</string>
     <string name="Todo">todo</string>
     <string name="Ojt_Monitoring_pp">OJT Monitoring App</string>
     <string name="Mission">MISSION</string>
@@ -7,6 +7,7 @@
     <string name="Vision">VISION</string>
     <string name="A_lead_university_in_producing_quality_individuals_with_competent_capacities_to_generate_knowledge_and_technology_and_enhance_professional_practices_for_sustainable_national_and_global_competitiveness_through_continuous_innovation">A lead university in producing quality individuals with competent capacities to generate knowledge and technology and enhance professional practices for sustainable national and global competitiveness through continuous innovation.</string>
     <string name="ID_number">ID Number</string>
-    <string name="Passcode">Passcode...</string>
+    <string name="Passcode">Passcode</string>
     <string name="login">LogIn</string>
+    <string name="ojt_monitoring_app">OJT Monitoring App</string>
 </resources>
